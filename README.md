@@ -1,2 +1,20 @@
-# Python-Project-
-Electricity rate analysis for non-IOU ZIP codes in the U.S. (2024) using data science and machine learning. Includes data cleaning, EDA, visualization, and a Linear Regression model to predict residential rates based on commercial, industrial, ownership, and state features. Useful for energy insights.
+# Electricity Rate Analysis Project ⚡
+
+## 📌 Description
+This project analyzes electricity rates using machine learning.
+
+## 📊 Features
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Visualization
+- Linear Regression Model
+
+## 🗂 Dataset
+Included in this repository
+
+## ▶️ How to Run
+pip install -r requirements.txt
+python main.py
+
+## 📈 Output
+Predicts residential electricity rates
